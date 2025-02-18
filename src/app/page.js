@@ -602,14 +602,14 @@ const Portfolio = () => {
     {
       school: "Amrit Campus",
       role: "Bachelors in Computer Science And Information Technology (Bsc.CSIT)",
-      period: "2023 - ",
+      period: " Nov 2023 - ",
       logo: "amrit.jpg",
       current: true,
     },
     {
       school: "Himalaya Secondary School",
       role: "Computer Engineering (From Grade 9 to +2)",
-      period: "2019 - 2023",
+      period: " Apr 2019 - Jun 2023",
       logo: "himalaya.png",
       current: false,
     },
