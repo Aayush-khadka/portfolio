@@ -80,6 +80,8 @@ const Portfolio = () => {
     { name: "Vercel", icon: "/vercel.svg" },
     { name: "GitHub", icon: "/github.svg" },
     { name: "Postman", icon: "/postman.svg" },
+    { name: "Web Sockets", icon: "/socket.svg" },
+    { name: "Postgres", icon: "/postgresql.svg" },
   ];
 
   const projects = [
