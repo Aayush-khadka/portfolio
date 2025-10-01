@@ -66,7 +66,10 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         {/* ✅ Google Search Console verification - replace with actual code */}
-        <meta name="google-site-verification" content="YOUR_CODE_HERE" />
+        <meta
+          name="google-site-verification"
+          content="google4eb2e009407006a2"
+        />
 
         {/* ✅ Structured Data (JSON-LD) for schema.org */}
         <script
