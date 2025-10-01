@@ -68,7 +68,7 @@ export default function RootLayout({ children }) {
         {/* ✅ Google Search Console verification - replace with actual code */}
         <meta
           name="google-site-verification"
-          content="google4eb2e009407006a2"
+          content="ubxGpA7421nNcKxGYtLMOS7E03H_vC5aQ5gYQD3yEzs"
         />
 
         {/* ✅ Structured Data (JSON-LD) for schema.org */}
