@@ -135,11 +135,6 @@ export default function RootLayout({ children }) {
             }),
           }}
         />
-        <script
-          src="https://app.rybbit.io/api/script.js"
-          data-site-id="521c2f3cf1d6"
-          defer
-        ></script>
 
         {/* ✅ Structured Data for Projects */}
         {projects.map((project, index) => (
